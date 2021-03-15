@@ -1,0 +1,22 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "ElitetycModulePlugin",
+          "class": "com.bzu.qrcodeplugin.TestModulePlugin"
+        }
+      ]
+    },
+    {
+      "plugins": [
+        {
+          "type": "component",
+          "name": "ElitetycText",
+          "class": "com.bzu.qrcodeplugin.TestComponentPlugin"
+        }
+      ]
+    }
+  ]
+}
